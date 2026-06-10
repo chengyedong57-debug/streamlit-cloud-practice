@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
-st.title("My First Deployed Streamlit App")
+##st.title("My First Deployed Streamlit App")
+st.title("Updated Streamlit App")
 st.write("This app was created in VS Code and deployed from GitHub.")
 data = {
 "Name": ["Alice", "Bob", "Charlie"],
