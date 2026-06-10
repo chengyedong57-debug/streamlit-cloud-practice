@@ -5,7 +5,7 @@ st.title("Updated Streamlit App")
 st.write("This app was created in VS Code and deployed from GitHub.")
 data = {
 "Name": ["Alice", "Bob", "Charlie"],
-"Score": [85, 92, 78],
+"Score": [85, 92, 98],
 }
 df = pd.DataFrame(data)
 st.subheader("Student Scores")
